@@ -5,7 +5,7 @@ Release:	1%{?dist}
 Summary:	This is a simple example to test copr
 
 License:	GPLv2+
-URL:		https://github.com/blog-tutorial-flat-unpacked
+URL:		https://github.com/blog-tutorial-layered
 Source0:	%{name}-%{version}.tar.gz
 
 
