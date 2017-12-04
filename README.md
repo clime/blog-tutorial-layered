@@ -56,7 +56,7 @@ Note that:
 
 and that ignored files are described by the following (case-insensitive) regular expression:
 
-        ignore_file_regex = '(^README|.spec$|^\.|^tito.props$|^sources$)'
+        ignore_file_regex = '(^LICENSE|^README|^tito.props$|.spec$|^\.|^sources$)'
 
 Now, these definitions (wired into https://pagure.io/rpkg-client) are really mind-boggling
 and I would recommend to just stick to the previous intutitive ones but what they allow, in the end,
